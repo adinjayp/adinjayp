@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Currently on a cosmic journey pursuing a Masters in Data Analytics Engineering at Northeastern University.<br>🔍 Zooming into the data universe with a keen interest in collaborating on Deep Learning and Machine Learning projects.<br>🌱 Exploring the wild terrains of MLOPS and navigating the intricate networks of Neural Networks.<br>💬 Ask me about my expertise in turning 0's and 1's into actionable insights! 📊
+🔍 Zooming into the data universe with a keen interest in collaborating on Deep Learning and Machine Learning projects.<br>🌱 Exploring the wild terrains of MLOPS and navigating the intricate networks of Neural Networks.<br>💬 Ask me about my expertise in turning 0's and 1's into actionable insights! 📊
 
 
 ## 🌐 Socials:
